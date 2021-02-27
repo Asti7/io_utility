@@ -1,4 +1,8 @@
-# <img src="https://github.com/Asti7/io_utility/blob/main/resources/terminal.png" height="70" width="70">  myio 
+# myio 
+
+
+<img src="https://github.com/Asti7/io_utility/blob/main/resources/terminal.png" height="70" width="70">
+
 
 Myio is a simple alternative to standard C i/o library. It utilises low level system calls to achive basic input/output functionality. 
 
