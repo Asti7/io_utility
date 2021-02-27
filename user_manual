@@ -1,5 +1,5 @@
 Name
-        myio -- custom input/output library function 
+        myio -- custom input/output library functions
 
 SYNOPSIS 
         #include <myio.h>
