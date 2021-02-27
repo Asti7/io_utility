@@ -1,4 +1,4 @@
-# myio
+# myio <img src="https://github.com/Asti7/clip/blob/master/images/clip_logo.png" height="40" width="40">
 
 Myio is a simple alternative to standard C i/o library. It utilises low level system calls to achive basic input/output functionality. 
 
@@ -63,7 +63,8 @@ sudo cp myio.a /usr/local/lib
 sudo cp myio.h /usr/local/include/myio.h
 ```
 
-Now your libraryisinstalled. Here’showtouseit:addtheline:#include <myio.h>atthetopofanysourcefilethatrequires your library functions, and when you compile a program that requires this library, add the -lmyio argument (with a lowercase letter L) to the end of your gcc command, to tell gcc to link the final executable to your library. Have fun!
+
+Now your library is installed. Here’s how to use it: addtheline : #include <myio.h> at the top of any source file that requires your library functions, and when you compile a program that requires this library, add the -lmyio argument (with a lowercase letter L) to the end of your gcc command, to tell gcc to link the final executable to your library. Have fun!
 
 
 
