@@ -9,7 +9,7 @@ Myio is a simple alternative to the standard C i/o library. It utilises low leve
 
 ## Why ? 
 
-Implementing the myio libraray was part of the [FIT2100 Operating Systems](https://handbook.monash.edu/2021/units/FIT2100) curriculum, being part of Assignment 1 for summer semester B 2021.
+Implementing the myio libraray was part of the [FIT2100 Operating Systems](https://handbook.monash.edu/2021/units/FIT2100) curriculum, being part of Assignment 1 for summer semester B 2021. (Assignment 1 - 97% HD)
 
 Also, I hate using format specifiers in C for trivial input and output stuff 😬, it just leads to more keyboard presses 😆
 
